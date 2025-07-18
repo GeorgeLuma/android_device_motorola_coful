@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "twrp-12.1"
+  },
+  {
+    "repository": "MotorolaMobilityLLC/kernel_motorola_mt6768",
+    "target_path": "kernel/motorola/coful",
+    "branch": "twrp-12.1"
+  }
+]
