@@ -5,7 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-COMMON_LUNCH_CHOICES := \
-    twrp_coful-user \
-    twrp_coful-userdebug \
-    twrp_coful-eng
+add_lunch_combo twrp_coful-user
+add_lunch_combo twrp_coful-userdebug
+add_lunch_combo twrp_coful-eng
