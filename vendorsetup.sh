@@ -5,6 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_coful-user
-add_lunch_combo omni_coful-userdebug
-add_lunch_combo omni_coful-eng
+COMMON_LUNCH_CHOICES := \
+    twrp_coful-user \
+    twrp_coful-userdebug \
+    twrp_coful-eng
